@@ -1,4 +1,4 @@
-# Online-Retail-K-Means-Hierarchical-Clustering
+# Retail-K-Means-Hierarchical-Clustering
 Step 1 : Reading and Understanding Data
 add Codeadd Markdown
 # import required libraries for dataframe and visualization
